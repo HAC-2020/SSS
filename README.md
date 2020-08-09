@@ -23,15 +23,20 @@ TeachUs has the potential to become a leading community for teachers to share re
 To run this on your local system, follow these steps:
 
 1. Clone this repository.
+```
       git clone https://github.com/HAC-2020/SSS.git
+```
 
 2. Install all the dependencies.
+```
       pip install -r requirements.txt
+```
 
 3. Run the following commands:
+```
       export FLASK_APP=start.py
       flask run
-
+```
 You're all set! Head to http://127.0.0.1:5000/index to check out TeachUs.
 
 ## Team - SSS
